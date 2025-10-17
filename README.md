@@ -32,6 +32,10 @@ Oyuncu, değişen platformlar ve beklenmedik engeller arasında hayatta kalmaya 
 
 (Oyun Görseli 7) https://github.com/Kaanguler1/Kaanguler1.github.io/blob/main/G%C3%B6rsel%209.png?raw=true
 
+(Oyun Görseli 8) https://github.com/Kaanguler1/Kaanguler1.github.io/blob/main/G%C3%B6rsel%2010.png?raw=true
+
+(Oyun Görseli 9) https://github.com/Kaanguler1/Kaanguler1.github.io/blob/main/G%C3%B6rsel%2011.png?raw=true
+
 ---
 
 ## 📫 İletişim
